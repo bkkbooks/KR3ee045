@@ -1,0 +1,250 @@
+canonical_identifier: bkk:krp/KR3ee045/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ee045/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 子午流注針經
+  identifiers:
+    krp: KR3ee045
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee045.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee045_000-jc.yaml, hash: 'sha256:5324445206d11e49416b8f3b471d60534b89c9f8552c8bfdf73d42b45c77e244'}
+  - {seq: 1, filename: KR3ee045_001-jc.yaml, hash: 'sha256:74ed2914b73a758dccc66f870401045e19faf396c193e480f164735aee2029c2'}
+  - {seq: 2, filename: KR3ee045_002-jc.yaml, hash: 'sha256:04dd3fae503cfd335344e6894f9aaa86e11e6fa28c1d8394d19c1ca62dd089ff'}
+  - {seq: 3, filename: KR3ee045_003-jc.yaml, hash: 'sha256:eef5d0cb55461ad0127d60a01dfe3e37866a4ff038fcec3b963376ebe77df0c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee045_000-jc.markers.yaml, hash: 'sha256:cfdab468d016d2b0f09b3d58c958d308cb2a51e3610f7b483ee6535caf50cfd1'}
+  - {seq: 1, role: markers, filename: assets/KR3ee045_001-jc.markers.yaml, hash: 'sha256:63e85f05e1169390d028b848fafbd2a1c27ffe9374034898f111a5534118daaf'}
+  - {seq: 2, role: markers, filename: assets/KR3ee045_002-jc.markers.yaml, hash: 'sha256:40257c131c62b18715afc3c3f6a10dd5e9311ea8504cab83b733fd7f81e8664e'}
+  - {seq: 3, role: markers, filename: assets/KR3ee045_003-jc.markers.yaml, hash: 'sha256:b4f1ed781c7106ffa52c3c09578be0a8f342054471eb3e4801a5b5e627c596a6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee045_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 296
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9571
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 5891
+  label: 流注指微針賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d3
+    span:
+    - body
+    - 5891
+    - 6193
+  label: 流注經絡井滎說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d4
+    span:
+    - body
+    - 6193
+    - 6663
+  label: 平人氣象論經隧周環圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d5
+    span:
+    - body
+    - 6663
+    - 6942
+  label: 手太陰肺經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d6
+    span:
+    - body
+    - 6942
+    - 7163
+  label: 手陽明大腸經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d7
+    span:
+    - body
+    - 7163
+    - 7546
+  label: 足陽明胃經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d8
+    span:
+    - body
+    - 7546
+    - 7753
+  label: 足太陰脾經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d9
+    span:
+    - body
+    - 7753
+    - 7925
+  label: 手少陰心經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d10
+    span:
+    - body
+    - 7925
+    - 8121
+  label: 手太陽小腸經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d11
+    span:
+    - body
+    - 8121
+    - 8357
+  label: 足太陽膀胱經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d12
+    span:
+    - body
+    - 8357
+    - 8583
+  label: 足少陰腎經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d13
+    span:
+    - body
+    - 8583
+    - 8785
+  label: 手厥陰心包經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d14
+    span:
+    - body
+    - 8785
+    - 9033
+  label: 手少陽三焦經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d15
+    span:
+    - body
+    - 9033
+    - 9367
+  label: 足少陽膽經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee045_jc_001-d3d16
+    span:
+    - body
+    - 9367
+    - 9571
+  label: 足厥陰肝經
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee045_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 710
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee045_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 661
+  label: 井滎俞經合部分圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee045_jc_002-d4d3
+    span:
+    - body
+    - 661
+    - 710
+  label: 五子元建日時歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee045_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2649
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee045_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 2649
+  label: 針經井滎歌訣
+  type: section
+  level: 2
+hash: sha256:29cde5b884eb9c781dffd63a3da14ffd47b7fc50410d94e215d82030947105e9
