@@ -17,14 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee045_000.yaml, hash: 'sha256:aaf5b773be4f0c3c131c748ec4d54c74101e90214e37a470d6c80e619d4c0516'}
-  - {seq: 1, filename: KR3ee045_001.yaml, hash: 'sha256:31cd64be1497bd2885d8769becabd21af8bfe7b5485c5557e82f818cc5e784f7'}
+  - {seq: 0, filename: KR3ee045_000.yaml, hash: 'sha256:5324445206d11e49416b8f3b471d60534b89c9f8552c8bfdf73d42b45c77e244'}
+  - {seq: 1, filename: KR3ee045_001.yaml, hash: 'sha256:74ed2914b73a758dccc66f870401045e19faf396c193e480f164735aee2029c2'}
   - {seq: 2, filename: KR3ee045_002.yaml, hash: 'sha256:04dd3fae503cfd335344e6894f9aaa86e11e6fa28c1d8394d19c1ca62dd089ff'}
-  - {seq: 3, filename: KR3ee045_003.yaml, hash: 'sha256:94355b73afce3cfb68ad14825743fca0a651ad3c608415e5d3e012ef0f663568'}
+  - {seq: 3, filename: KR3ee045_003.yaml, hash: 'sha256:eef5d0cb55461ad0127d60a01dfe3e37866a4ff038fcec3b963376ebe77df0c1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee045_000.markers.yaml, hash: 'sha256:e68ced2d5e45aa735c92899bb505a677196b9f1d6b7450d2c18978bd036d401a'}
-  - {seq: 1, role: markers, filename: assets/KR3ee045_001.markers.yaml, hash: 'sha256:d6f0e5f400a9bb999d8943b573004448262e33bcea19dbc42fe03688d7f54f16'}
-  - {seq: 3, role: markers, filename: assets/KR3ee045_003.markers.yaml, hash: 'sha256:57f76e26cbb3f2b229ef7427eefc51303ba6e5fe194b4bd07c0733154f1f4877'}
+  - {seq: 0, role: markers, filename: assets/KR3ee045_000.markers.yaml, hash: 'sha256:53da02e244e01160f510dbcb1f96aa12c346e15004a9dd357a4b802b75bf4d30'}
+  - {seq: 1, role: markers, filename: assets/KR3ee045_001.markers.yaml, hash: 'sha256:4c8fe65244388b807e9faed8ed2af198f5c5d846311df2e72ee32f4dec87813d'}
+  - {seq: 2, role: markers, filename: assets/KR3ee045_002.markers.yaml, hash: 'sha256:284d38bd3db7d809868db896e40d7154201ab2d9387e4119c9f4103e21e0fe4a'}
+  - {seq: 3, role: markers, filename: assets/KR3ee045_003.markers.yaml, hash: 'sha256:8302d88c123c446ad15c6a840d229840629e30ff0dac0e8456f6d95272db9548'}
 table_of_contents:
 - ref:
     seq: 0
@@ -246,7 +247,4 @@ table_of_contents:
   label: 針經井滎歌訣
   type: section
   level: 2
-hash: sha256:873763e15036a81276673b7f42e448dfe5b4f3ad53894564676c3a73f45c5cbb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aeceba4dda950906071fb0c7369d786c179ae6639e09e40b820e7d72f576b98b
