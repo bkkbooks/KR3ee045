@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee045/v1
 canonical_location: https://kanripo.org/bkk/KR3ee045/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 子午流注針經
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee045_000.yaml, hash: 'sha256:5324445206d11e49416b8f3b471d60534b89c9f8552c8bfdf73d42b45c77e244'}
-  - {seq: 1, filename: KR3ee045_001.yaml, hash: 'sha256:74ed2914b73a758dccc66f870401045e19faf396c193e480f164735aee2029c2'}
+  - {seq: 0, filename: KR3ee045_000.yaml, hash: 'sha256:eada62eb92bd54d5a11647b831d0a1019803be7ea0b64b5d82cd8cd61086cb14'}
+  - {seq: 1, filename: KR3ee045_001.yaml, hash: 'sha256:c5567c392c619ccaf63a9ea4090479442cc5d158bb0015698702680d4cd6fd35'}
   - {seq: 2, filename: KR3ee045_002.yaml, hash: 'sha256:04dd3fae503cfd335344e6894f9aaa86e11e6fa28c1d8394d19c1ca62dd089ff'}
-  - {seq: 3, filename: KR3ee045_003.yaml, hash: 'sha256:eef5d0cb55461ad0127d60a01dfe3e37866a4ff038fcec3b963376ebe77df0c1'}
+  - {seq: 3, filename: KR3ee045_003.yaml, hash: 'sha256:94355b73afce3cfb68ad14825743fca0a651ad3c608415e5d3e012ef0f663568'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee045_000.markers.yaml, hash: 'sha256:53da02e244e01160f510dbcb1f96aa12c346e15004a9dd357a4b802b75bf4d30'}
-  - {seq: 1, role: markers, filename: assets/KR3ee045_001.markers.yaml, hash: 'sha256:4c8fe65244388b807e9faed8ed2af198f5c5d846311df2e72ee32f4dec87813d'}
+  - {seq: 0, role: markers, filename: assets/KR3ee045_000.markers.yaml, hash: 'sha256:bdaed4b872520be48b1298d1d7e38c8b3fe0c54277f7f5d6e781f8f9a219b7f2'}
+  - {seq: 1, role: markers, filename: assets/KR3ee045_001.markers.yaml, hash: 'sha256:42e297e213ab2c8ad841be79170382f1814dae85e217b7a6c322e38dea6a55e0'}
   - {seq: 2, role: markers, filename: assets/KR3ee045_002.markers.yaml, hash: 'sha256:284d38bd3db7d809868db896e40d7154201ab2d9387e4119c9f4103e21e0fe4a'}
-  - {seq: 3, role: markers, filename: assets/KR3ee045_003.markers.yaml, hash: 'sha256:8302d88c123c446ad15c6a840d229840629e30ff0dac0e8456f6d95272db9548'}
+  - {seq: 3, role: markers, filename: assets/KR3ee045_003.markers.yaml, hash: 'sha256:3a0d09e26c7b3d65f6fb0031fabdf1004cc59a9bf710853bb59ad285e5c51d95'}
 table_of_contents:
 - ref:
     seq: 0
@@ -247,4 +247,7 @@ table_of_contents:
   label: 針經井滎歌訣
   type: section
   level: 2
-hash: sha256:aeceba4dda950906071fb0c7369d786c179ae6639e09e40b820e7d72f576b98b
+hash: sha256:04acd099bb6f1b905501684df5fc50647aa9399d457453d184c1bd197929f36b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
