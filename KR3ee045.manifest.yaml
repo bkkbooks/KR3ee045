@@ -24,8 +24,8 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ee045_000.markers.yaml, hash: 'sha256:bdaed4b872520be48b1298d1d7e38c8b3fe0c54277f7f5d6e781f8f9a219b7f2'}
   - {seq: 1, role: markers, filename: assets/KR3ee045_001.markers.yaml, hash: 'sha256:42e297e213ab2c8ad841be79170382f1814dae85e217b7a6c322e38dea6a55e0'}
-  - {seq: 2, role: markers, filename: assets/KR3ee045_002.markers.yaml, hash: 'sha256:284d38bd3db7d809868db896e40d7154201ab2d9387e4119c9f4103e21e0fe4a'}
-  - {seq: 3, role: markers, filename: assets/KR3ee045_003.markers.yaml, hash: 'sha256:3a0d09e26c7b3d65f6fb0031fabdf1004cc59a9bf710853bb59ad285e5c51d95'}
+  - {seq: 2, role: markers, filename: assets/KR3ee045_002.markers.yaml, hash: 'sha256:92fca535346d29fcb84877b780a455009c25ee7b46e9b49e7c21256060c1f2ca'}
+  - {seq: 3, role: markers, filename: assets/KR3ee045_003.markers.yaml, hash: 'sha256:69f50c9a3dfcfd672ba292819549acf85ad5410c7eaab91700f53d6fbbd5afa0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -247,7 +247,7 @@ table_of_contents:
   label: 針經井滎歌訣
   type: section
   level: 2
-hash: sha256:04acd099bb6f1b905501684df5fc50647aa9399d457453d184c1bd197929f36b
+hash: sha256:93167ade9b225477d61ace3ae3261f0026aad10b6f3cbac07b7e0288ccac7194
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
