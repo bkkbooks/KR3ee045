@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ee045/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序竊以久習醫業好讀難素辭理精微妙門隱奧古今所難而不易也是以針刺之理尤為難解博而寡要勞而少功窮而通之積有萬端之廣近世指病直刺不務法者多矣近有南唐何公務法上古撰指微論三卷探經絡之源順針刺之理明榮衛之清濁別孔穴之部分然未廣傳於世又近於貞元癸酉年間收何公所作指微針賦一道敘其首云皆按指微論中之妙理先賢祕隱之樞機復增多事凡百餘門悉便於討閲者也非得難素不傳之妙孰能至此哉廣不度荒拙隨其意韻輒申短説採托群經為之注解廣今復採難素遺文賈氏井滎六十首法布經絡往還復針刺孔穴部分鈐括圖形集成一義目之曰流注經絡井滎圖歌訣續於賦後非顯不肖之狂迷啓明何氏之用心致驗於人也自慮未備其善更祈明智乃懇續焉常山閻明廣序據普濟方補
   hash: sha256:93d17f3557af35c1fe7dede1ca1de3b229520f78a05adf329982712c1a9d4385
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ee045_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 子午流注針經
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ee045.xml
-hash: sha256:eada62eb92bd54d5a11647b831d0a1019803be7ea0b64b5d82cd8cd61086cb14
+hash: sha256:13b20506d591f115113d9a872011c0b302cafbc92bd1957a4c07e5eef9bec9b1
